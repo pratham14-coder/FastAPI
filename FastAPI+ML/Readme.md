@@ -29,7 +29,6 @@ This project predicts the **insurance premium category** using user demographic 
 
 ## 📺 Live Demo Preview
 
-> _(Add your screenshots here later)_  
 > ![Preview](https://via.placeholder.com/1000x300.png?text=Insurance+Prediction+UI)
 
 ---
