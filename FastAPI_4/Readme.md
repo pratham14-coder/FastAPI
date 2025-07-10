@@ -11,7 +11,6 @@ An intelligent health record management system built with **FastAPI** that store
 ## 📸 Project Preview
 
 > _Smart BMI-based health dashboard via REST API_  
-> (You can add a real image later)
 
 ![Preview](https://via.placeholder.com/1000x300.png?text=Patient+Management+API+with+FastAPI)
 
