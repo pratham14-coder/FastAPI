@@ -27,12 +27,6 @@ This project predicts the **insurance premium category** using user demographic 
 
 ---
 
-## 📺 Live Demo Preview
-
-> ![Preview](https://via.placeholder.com/1000x300.png?text=Insurance+Prediction+UI)
-
----
-
 ## 🛠 Tech Stack
 
 - **Backend**: FastAPI + Pydantic
